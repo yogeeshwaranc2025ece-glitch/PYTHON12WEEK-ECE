@@ -22,10 +22,3 @@ Collection of Python programming practice material for ECE, covering 12 weekly t
 | 11 | Bubble and Merge Sort |
 | 12 | Files and its Operations |
 
-## Usage
-
-Clone the repository and open any PDF for reference while practising.
-
-```bash
-git clone <this-repo-url>
-```
